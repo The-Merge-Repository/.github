@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/The-Merge-Repository/.github/blob/main/THE_MERGE.png" alt="Imagine a bear in a unicycle" width="1375" height="200">
+  <img src="https://github.com/The-Merge-Repository/.github/blob/main/THE_MERGE.png" alt="Imagine a bear in a unicycle" style="width:100%; max-width:1375px; height:auto;">
 </div>
 
 # Welcome to The Merge Repository
